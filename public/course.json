@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "course_thumbnail": "https://i.ibb.co/kHczSsT/281d456b4d6bbf59c657fa5d0e5daf80.png",
+      "course_name": "Introduction to Python Programming",
+      "credit_hour": 3,
+      "price": "15000",
+      "course_details": "This course introduces you to the basics of Python programming. You'll learn about variables, loops, and functions."
+    },
+    {
+      "id": 2,
+      "course_thumbnail": "https://i.ibb.co/NFZ5dM8/2088c50ea5475adb01d053258afc6ebb.png",
+      "course_name": "Introduction to C Programming",
+      "credit_hour": 4,
+      "price": "14000",
+      "course_details": "Learn the fundamentals of C programming, including variables, loops, functions, and data structures."
+    },
+    {
+      "id": 3,
+      "course_thumbnail": "https://i.ibb.co/6n6Mb4V/4244893c888c36dde505b247de2b7661.jpg",
+      "course_name": "Algorithm Design and Analysis",
+      "credit_hour": 3,
+      "price": "11000",
+      "course_details": "Master the art of designing and analyzing efficient algorithms for solving complex computational problems in various domains."
+    },
+    {
+      "id": 4,
+      "course_thumbnail": "https://i.ibb.co/hgYhqDt/b1c259ea0cb13fb1c445e27de4ead850.png",
+      "course_name": "Advanced C++ Programming",
+      "credit_hour": 5,
+      "price": "18000",
+      "course_details": "Take your C++ skills to the next level with advanced topics like templates, STL, and memory management."
+    },
+    {
+      "id": 5,
+      "course_thumbnail": "https://i.ibb.co/RCsYdWJ/download.png",
+      "course_name": "React.js Web Development",
+      "credit_hour": 4,
+      "price": "14500",
+      "course_details": "Learn to build dynamic web applications using React.js, a popular JavaScript library for creating user interfaces."
+    },
+    {
+      "id": 6,
+      "course_thumbnail": "https://i.ibb.co/WGKqhd7/9fa183e7a46e3e4a803be82d14fb07ee.jpg",
+      "course_name": "Data Structures and Algorithms",
+      "credit_hour": 4,
+      "price": "10000",
+      "course_details": "Master fundamental data structures and algorithms for efficient problem-solving in programming and computer science."
+    },
+    {
+      "id": 7,
+      "course_thumbnail": "https://i.ibb.co/z6nvq9q/2561b8d6dc9e8924547abe117b30a4d1.jpg",
+      "course_name": "MySQL Database Administration",
+      "credit_hour": 5,
+      "price": "11500",
+      "course_details": "Learn to manage and optimize MySQL databases, from installation and configuration to data retrieval and performance tuning."
+    },
+    {
+      "id": 8,
+      "course_thumbnail": "https://i.ibb.co/gPLGJsr/ef4efb7d2e92fd086e9e054d1e46ba3f-1.jpg",
+      "course_name": "React Native App Development",
+      "credit_hour": 6,
+      "price": "16500",
+      "course_details": "Build cross-platform mobile applications using React Native, a framework for developing native-quality apps with JavaScript and React."
+    },
+    {
+      "id": 9,
+      "course_thumbnail": "https://i.ibb.co/6Rd5vjR/0f796aa5010a50065c5e01a5d319ba74.jpg",
+      "course_name": "Software Engineering Principles",
+      "credit_hour": 7,
+      "price": "20000",
+      "course_details": "Explore the core principles and practices of software engineering, from requirements gathering to software development and maintenance."
+    }
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
