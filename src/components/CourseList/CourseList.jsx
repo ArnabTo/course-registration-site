@@ -1,13 +1,15 @@
+
 import PropTypes from 'prop-types'
 
-const CourseList = ({courseList}) => {
-    const {course_name} = courseList
+
+const CourseList = ({ courseList}) => {
+    // console.log(courseList)
+    const { course_name} = courseList
     return (
         <div>
-        <div className="courseListContainer">
-        <p>{course_name}</p>
-        </div>
-      
+            <div className="courseListContainer">
+                <p>{course_name}</p>
+            </div>
         </div>
     );
 };
