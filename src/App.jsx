@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from 'react'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -7,13 +8,13 @@ import Courses from './components/Courses/Courses'
 function App() {
 
   const notify = () => toast("🔗 This Course is already added!");
-  const notify2 = () => toast("⚠️ Your Credit Hour is over");
+  const notify2 = () => toast("⚠️Your Credit Hour is over");
   const updatedList = [];
   const [toasts, setToast] = useState(false)
   const [courseLists, setCourseLists] = useState([])
+  
   const handleBuyBtn = (course) => {
     const courseListUpdate = [...courseLists, course]
-
     const removeDuplicate = courseListUpdate.filter(element => {
       const isDuplicate = updatedList.includes(element.id)
       if (!isDuplicate) {
