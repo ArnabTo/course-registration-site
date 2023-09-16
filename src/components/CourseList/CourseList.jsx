@@ -8,7 +8,7 @@ const CourseList = ({ courseList}) => {
     return (
         <div>
             <div className="courseListContainer">
-                <p>{course_name}</p>
+               <li><p>{course_name}</p></li> 
             </div>
         </div>
     );
