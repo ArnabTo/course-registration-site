@@ -15,6 +15,7 @@ const Courses = ({handleBuyBtn, sum}) => {
                 {
                   courses.map( course => <Course course={course} handleBuyBtn={handleBuyBtn} key={course.id} sum={sum}></Course> )
                 }
+               
             </div>
         
         </div>
